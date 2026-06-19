@@ -30,7 +30,7 @@ export const RESUME_URL =
 export const HERO_STATS = [
   { n: "2+", l: "Projects Shipped" },
   { n: "5+", l: "Technologies Mastered" },
-  { n: "2", l: "Industry Certifications" },
+  { n: "4", l: "Industry Certifications" },
   { n: "Full Stack", l: "React · Node · Python" },
 ];
 
@@ -162,7 +162,7 @@ export const PROJECTS = [
   {
     title: "Hospital Management System",
     subtitle: "Full-Stack Web Application for Streamlined Hospital Operations",
-    img: "/images/hospital-management.webp",
+    img: "/images/Hosptial-management.png",
     tags: ["React", "Node.js", "Express", "MongoDB", "SQL", "REST API"],
     metrics: [{ v: "Full Stack", l: "Web App" }, { v: "CRUD", l: "Operations" }],
     cat: "Full Stack",
@@ -173,7 +173,7 @@ export const PROJECTS = [
   {
     title: "AI Resume Builder",
     subtitle: "Intelligent Resume Generator Powered by AI",
-    img: "/images/ai-resume-builder.webp",
+    img: "/images/ai-resume-builder.png",
     tags: ["Python", "React", "AI/ML", "REST API", "Node.js", "MongoDB"],
     metrics: [{ v: "AI-Powered", l: "Generation" }, { v: "Dynamic", l: "Templates" }],
     cat: "AI / Full Stack",
@@ -224,7 +224,8 @@ export const CERTS = [
 /* ── SOCIAL LINKS ── */
 export const SOCIALS = [
   { icon: "✉️", label: "Email", val: "vkirubakaran633@gmail.com", href: "mailto:vkirubakaran633@gmail.com", c: "#7c3aed" },
+  { icon: "📞", label: "Phone", val: "+91 6379825876", href: "tel:+916379825876", c: "#0ea5e9" },
   { icon: "💼", label: "LinkedIn", val: "kiruba-dev", href: "https://www.linkedin.com/in/kiruba-dev/", c: "#2563eb" },
   { icon: "⬡", label: "GitHub", val: "kirubakaran-cs", href: "https://github.com/kirubakaran-cs", c: "#6b7280" },
-  { icon: "🐦", label: "Twitter / X", val: "@kirubakaran_03", href: "https://x.com/kirubakaran_03", c: "#0ea5e9" },
+  // { icon: "", label: "Twitter / X", val: "@kirubakaran_03", href: "https://x.com/kirubakaran_03", c: "#0ea5e9" },
 ];
