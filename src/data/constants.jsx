@@ -24,7 +24,7 @@ export const NAV_ITEMS = [
 
 /* ── RESUME LINK ── */
 export const RESUME_URL =
-  "https://drive.google.com/file/d/1uXPipbplMNvSRy67olJzTWVWdvJSgHgp/view";
+  "https://drive.google.com/file/d/1zJT25WoJDR6Uz3Jk34PLzjt-uxlQB59z/view?usp=drive_link";
 
 /* ── HERO STATS BAR ── */
 export const HERO_STATS = [
