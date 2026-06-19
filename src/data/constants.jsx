@@ -185,20 +185,38 @@ export const PROJECTS = [
 
 /* ── CERTIFICATES ── */
 export const CERTS = [
-  {
-    img: "/images/cert-ibm.webp",
-    issuer: "IBM",
-    title: "Artificial Intelligence",
+   {
+    img: "/images/cert-html-css-js.png",
+    issuer: "Udemy",
+    title: "Full Stack Programming Course",
     date: "August 2025",
-    link: "https://www.coursera.org/account/accomplishments/specialization/US4R3ZXUCFTD",
+    link: "https://www.udemy.com/certificate/UC-26a35367-1e6f-4fae-947c-4bf1f6a0158a/",
     accent: "#7c3aed",
   },
   {
-    img: "/images/cert-mongodb.webp",
-    issuer: "MongoDB",
-    title: "MongoDB Developer Certification",
+    img: "/images/cert-python.png",
+    issuer: "Google (via coursera)",
+    title: "Crash Course on Python",
     date: "2025",
-    link: "https://learn.mongodb.com/c/",
+    link: "https://coursera.org/share/86cb91f46177eb435f44602d68ae021e",
+    accent: "#059669",
+  },
+
+  {
+    img: "/images/cert-ibm-ai.png",
+    issuer: "IBM SkillsBuild",
+    title: "Artificial Intelligence",
+    date: "August 2025",
+    link: "https://www.credly.com/badges/ca153330-6bf2-4da2-a494-c818a8590c77/whatsapp",
+    accent: "#7c3aed",
+  },
+
+  {
+    img: "/images/cert-mongoDB.png",
+    issuer: "MongoDB",
+    title: "MongoDB Basics for Students",
+    date: "2025",
+    link: "https://www.credly.com/badges/5e651d70-4261-4180-8164-50f1f3ff92c3",
     accent: "#059669",
   },
 ];
@@ -208,5 +226,5 @@ export const SOCIALS = [
   { icon: "✉️", label: "Email", val: "vkirubakaran633@gmail.com", href: "mailto:vkirubakaran633@gmail.com", c: "#7c3aed" },
   { icon: "💼", label: "LinkedIn", val: "kiruba-dev", href: "https://www.linkedin.com/in/kiruba-dev/", c: "#2563eb" },
   { icon: "⬡", label: "GitHub", val: "kirubakaran-cs", href: "https://github.com/kirubakaran-cs", c: "#6b7280" },
-  // { icon: "🐦", label: "Twitter / X", val: "@kirubakaran-cs", href: "https://x.com/kirubakaran-cs", c: "#0ea5e9" },
+  { icon: "🐦", label: "Twitter / X", val: "@kirubakaran_03", href: "https://x.com/kirubakaran_03", c: "#0ea5e9" },
 ];
