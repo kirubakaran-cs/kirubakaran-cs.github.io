@@ -203,7 +203,7 @@ export const CERTS = [
   },
 
   {
-    img: "/images/cert-ibm-ai.png",
+    img: "/images/cert-ibm-ai.png.png",
     issuer: "IBM SkillsBuild",
     title: "Artificial Intelligence",
     date: "August 2025",
@@ -212,7 +212,7 @@ export const CERTS = [
   },
 
   {
-    img: "/images/cert-mongoDB.png",
+    img: "/images/cert-mongoDb.png",
     issuer: "MongoDB",
     title: "MongoDB Basics for Students",
     date: "2025",
