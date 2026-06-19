@@ -1,0 +1,15 @@
+{
+  "short_name": "Kiruba",
+  "name": "Kirubakaran | Developer Portfolio",
+  "icons": [
+    {
+      "src": "public/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#090917",
+  "background_color": "#090917"
+}
